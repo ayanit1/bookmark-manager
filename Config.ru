@@ -1,2 +1,2 @@
-require './app/app'
+require_relative './app'
 run App
